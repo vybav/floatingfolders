@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Vaibhav/AndroidStudioProjects/floatingfolders/floatingFolders/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="ics_blue">#33b5e5</color>
+    <!-- From: file:/C:/Users/Vaibhav/AndroidStudioProjects/floatingfolders/floatingFolders/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Floating Folders</string>
+    <!-- From: file:/C:/Users/Vaibhav/AndroidStudioProjects/floatingfolders/floatingFolders/build/intermediates/exploded-aar/floatingfolders/standOut/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="close">Close</string>
+    <string name="corner">Corner</string>
+    <string name="hide">Hide</string>
+    <string name="maximize">Maximize</string>
+    <string name="window_icon">Window icon</string>
+</resources>
